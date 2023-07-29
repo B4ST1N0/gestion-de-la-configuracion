@@ -1,0 +1,4 @@
+Opción 1 (Depende del tiempo)
+Se realizará una aplicación web de una calculadora científica con variedad de opciones y formulas, tendrá un login con registro en la base de datos no relacional (mongodb) y se programará en JavaScript y python
+opción 2
+se realizará una aplicación web de streaming con películas tendrá un simulador de suscripción, un login con registro en la base de datos, y también programado en javaScrip
